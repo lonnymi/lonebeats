@@ -1,0 +1,12 @@
+{
+  "idAchat": "ACH-301",
+  "idArtiste": "ART-7",
+  "beat": {
+    "idBeat": "BEAT-12",
+    "titre": "Kingston Nights"
+  },
+  "typeLicence": "PREMIUM",
+  "prixPaye": 80,
+  "statut": "PAYE",
+  "dateAchat": "2026-10-08T11:30:00Z"
+}

@@ -1,0 +1,10 @@
+{
+  "idBeat": "BEAT-12",
+  "titre": "Kingston Nights",
+  "bpm": 92,
+  "style": "reggae",
+  "prix": { "BASIC": 30, "PREMIUM": 80 },
+  "statut": "DISPONIBLE",
+  "version": 1,
+  "datePublication": "2026-10-08T10:00:00Z"
+}
