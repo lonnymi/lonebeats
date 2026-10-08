@@ -1,0 +1,21 @@
+{
+  "service": "vente",
+  "commandes": [
+    {
+      "commande": "AcheterLicence",
+      "emisePar": "artiste",
+      "donnees": {
+        "idArtiste": "ART-7",
+        "idBeat": "BEAT-12",
+        "typeLicence": "PREMIUM"
+      }
+    },
+    {
+      "commande": "ConsulterMesAchats",
+      "emisePar": "artiste",
+      "donnees": {
+        "idArtiste": "ART-7"
+      }
+    }
+  ]
+}

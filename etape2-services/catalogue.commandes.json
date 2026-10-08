@@ -1,0 +1,31 @@
+{
+  "service": "catalogue",
+  "commandes": [
+    {
+      "commande": "PublierBeat",
+      "emisePar": "producteur",
+      "donnees": {
+        "titre": "Kingston Nights",
+        "bpm": 92,
+        "style": "reggae",
+        "prix": { "BASIC": 30, "PREMIUM": 80 }
+      }
+    },
+    {
+      "commande": "ModifierPrixBeat",
+      "emisePar": "producteur",
+      "donnees": {
+        "idBeat": "BEAT-12",
+        "typeLicence": "PREMIUM",
+        "nouveauPrix": 100
+      }
+    },
+    {
+      "commande": "RetirerBeat",
+      "emisePar": "producteur",
+      "donnees": {
+        "idBeat": "BEAT-12"
+      }
+    }
+  ]
+}
